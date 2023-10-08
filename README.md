@@ -36,7 +36,7 @@ I believe in the power of creativity to inspire innovation and constantly explor
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelasaenzm/)
 
 <p align="center">
-  **Happy coding! 👩🏻‍💻**
+  <b>Happy coding! 👩🏻‍💻</b>
 </p>
 
 
