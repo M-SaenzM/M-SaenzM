@@ -1,10 +1,12 @@
-![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/Banner.png)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F743AC&background=DDBADA18&center=true&vCenter=true&width=435&lines=Design+with+purpose+%F0%9F%A6%84+.+.+.;+.+.+.+Code+with+flair!+%E2%9C%A8)](https://git.io/typing-svg)
 
 [![](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif)](https://github.com/M-SaenzM)
 
-
+<!---
+![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/Banner.png)
+-->
 
 
 👋 Hello World! I'm Marcela Saenz
