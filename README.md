@@ -1,31 +1,45 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F743AC&background=FEE8FF00&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8Design+with+purpose++.+.+.;+.+.+.+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBCode+with+flair!+%E2%9C%A8)](https://git.io/typing-svg)
+
 
 <p align="center">
-  <img width="800" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif">
+  <img width="700" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F743AC&background=FEE8FF00&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8Design+with+purpose++.+.+.;+.+.+.+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBCode+with+flair!+%E2%9C%A8)](https://git.io/typing-svg)
 
-  [![](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif)](https://github.com/M-SaenzM)
+=====================================
+ 
 
 
 
 <!---
 ![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/Banner.png)
+
+ [![](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif)](https://github.com/M-SaenzM)
 -->
 
 
-👋 Hello World! I'm Marcela Saenz
+👋 Hello World! I'm Marcela Saenz. . .
+------------------------------------------
 
-🚀 Computer Engineer | 💻 UI/UX Enthusiast | 📚 Lifelong Learner
-
-🌟 Passionate about coding, building awesome projects, and solving real-world problems with technology.
-
+🎓 Computer Engineer 
+💻 Front-end Developer
+🎨 UI/UX Designer 
+🚀 Code & Design Enthusiast
+📚 Lifelong Learner 
+🌟 Creative Thinker 
 🌐 Currently exploring the realms of Web Programming
 
-📫 Let's connect! Feel free to reach out for collaboration or just to say hi.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+I'm a passionate creator who blends code and design to craft delightful digital experiences. My code and designs aim to tell stories and solve problems elegantly. 
+I believe in the power of creativity to inspire innovation and constantly explore new ways to merge technology and art.
 
-Happy coding! 👩🏻‍💻
+
+
+📫 Let's collaborate on exciting projects or discuss design and tech trends. Reach out anytime!
+🔗 [LinkedIn](https://www.linkedin.com/in/marcelasaenzm/)
+
+#Happy coding! 👩🏻‍💻
+
+
