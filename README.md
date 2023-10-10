@@ -48,7 +48,9 @@ I believe in the power of creativity to inspire innovation and constantly explor
 
 ------
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=M-SaenzM&theme=jolly)](https://git.io/streak-stats)
+<a align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=M-SaenzM&theme=jolly)](https://git.io/streak-stats)
+</a>
 
 -----
 
