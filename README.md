@@ -24,23 +24,33 @@ I believe in the power of creativity to inspire innovation and constantly explor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,express,nodejs,html,graphql,postman,css,sass,tailwind,materialui,bootstrap,c,cpp,cs,dotnet,androidstudio,dart,flutter,py,java,arduino,matlab&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,react,express,nodejs,html,graphql,postman,css,sass,tailwind,materialui,bootstrap,c,cpp,cs,dotnet,androidstudio,dart,flutter,py,java,arduino,matlab&perline=8" />
   </a>
 </p>
 
-
 ## Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+  </a>
+</p>
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,powershell,linux,eclipse,visualstudio,vscode,idea,figma&perline=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,linux,eclipse,visualstudio,vscode,idea,figma&perline=5" />
+  </a>
+</p>
 
 ------
-------
-📫 Let's collaborate on exciting projects or discuss design and tech trends. Reach out anytime!
-🔗 [LinkedIn](https://www.linkedin.com/in/marcelasaenzm/)
+<p align="center">
+  📫 Let's collaborate on exciting projects or discuss design and tech trends. Reach out anytime!
+  <a href="https://www.linkedin.com/in/marcelasaenzm/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <p align="center">
   <b>Happy coding! 👩🏻‍💻</b>
