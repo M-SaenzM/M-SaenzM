@@ -1,8 +1,8 @@
-![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/image.png)
+![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/github-header-image%20(6).png)
 
-<p align="center">
-  <h1>Hello World! 👋🏻 I'm Marcela Saenz ✨</h1>
-</p>
+<h1 align="center">
+   Hello World! 👋🏻 I'm Marcela Saenz ✨
+</h1>
 ----
 <div align="center">
   <div width="48%"> 
