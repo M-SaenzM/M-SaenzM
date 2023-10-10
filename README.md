@@ -4,12 +4,14 @@
  <img align="right" width="400" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif"/>
 
 <br>
+
 - 🎓 Computer Engineer 
 - 💻 Front-end Developer
 - 🎨 UI/UX Design Enthusiast
 - 📚 Lifelong Learner 
 - 🌟 Creative Thinker 
 - 🌐 Currently exploring the realms of **Web Programming**
+
 <br>
 
 ----
