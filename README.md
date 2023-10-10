@@ -22,15 +22,15 @@ I believe in the power of creativity to inspire innovation and constantly explor
 
 ## Languages ⚡
 
-[![My Skills](https://skillicons.dev/icons?i=js,React,Express,NodeJ,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,HTML,graphql,postman,CSS,sass,tailwind,materialui,bootstrap,c,cpp,c#,dotnet,androidstudio,dart,flutter,py,arduino,matlab&perline=4)](https://skillicons.dev)
 
 ## Databases
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql,mysql,sqlite,MongoDB,postgres)](https://skillicons.dev)
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,powershell,linux,eclipse,visualstudio,vscode,idea,figma&perline=4)](https://skillicons.dev)
 
 ------
 ------
