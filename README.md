@@ -50,10 +50,10 @@ I believe in the power of creativity to inspire innovation and constantly explor
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats-nine-gamma-89.vercel.app/api?username=M-SaenzM&theme=jolly" />
+    <img height=150 align="center" src="https://github.com/anuraghazra/github-readme-stats/api?username=M-SaenzM&theme=jolly" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height=150 align="center" src="https://github-readme-streak-stats-rose-kappa.vercel.app/?user=M-SaenzM&theme=jolly" />
+    <img height=150 align="center" src="https://git.io/streak-stats/?user=M-SaenzM&theme=jolly" />
   </a>
 </p>
 
