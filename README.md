@@ -16,6 +16,8 @@
 
 ----
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F743AC&background=FEE8FF00&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8Design+with+purpose++.+.+.;+.+.+.+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBCode+with+flair!+%E2%9C%A8)](https://git.io/typing-svg)
+  
   <br>
    
 <p align="center">
@@ -24,8 +26,6 @@ I believe in the power of creativity to inspire innovation and constantly explor
 </p>
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F743AC&background=FEE8FF00&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8Design+with+purpose++.+.+.;+.+.+.+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBCode+with+flair!+%E2%9C%A8)](https://git.io/typing-svg)
 
 
 # Skills
