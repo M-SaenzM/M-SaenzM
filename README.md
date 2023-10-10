@@ -53,7 +53,7 @@ I believe in the power of creativity to inspire innovation and constantly explor
     <img height=150 align="center" src="https://github-readme-stats-nine-gamma-89.vercel.app/api?username=M-SaenzM&theme=jolly" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height=150 align="center" src="https://github-readme-stats-nine-gamma-89.vercel.app/?user=M-SaenzM&theme=jolly" />
+    <img height=150 align="center" src="https://github-readme-streak-stats-rose-kappa.vercel.app/?user=M-SaenzM&theme=jolly" />
   </a>
 </p>
 
