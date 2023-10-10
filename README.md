@@ -22,11 +22,16 @@ I believe in the power of creativity to inspire innovation and constantly explor
 
 ## Languages ⚡
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,html,graphql,postman,css,sass,tailwind,materialui,bootstrap,c,cpp,cs,dotnet,androidstudio,dart,flutter,py,arduino,matlab&perline=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,express,nodejs,html,graphql,postman,css,sass,tailwind,materialui,bootstrap,c,cpp,cs,dotnet,androidstudio,dart,flutter,py,java,arduino,matlab&perline=4" />
+  </a>
+</p>
+
 
 ## Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,MongoDB,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres)](https://skillicons.dev)
 
 ## Tools
 
