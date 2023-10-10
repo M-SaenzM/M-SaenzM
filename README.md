@@ -28,7 +28,7 @@ I believe in the power of creativity to inspire innovation and constantly explor
   </a>
 </p>
 
-## Databases
+## Databases 🔑
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@ I believe in the power of creativity to inspire innovation and constantly explor
   </a>
 </p>
 
-## Tools
+## Tools ⛏️
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,6 +48,7 @@ I believe in the power of creativity to inspire innovation and constantly explor
 <p align="center">
   📫 Let's collaborate on exciting projects or discuss design and tech trends. Reach out anytime!
 </p>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/marcelasaenzm/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
