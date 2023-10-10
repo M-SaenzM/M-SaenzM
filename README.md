@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/github-header-image%20(6).png)
+![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/github-header-image%20(7).png)
 
 ----
  <img align="right" width="400" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif"/>
@@ -16,7 +16,10 @@
 
 ----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F743AC&background=FEE8FF00&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8Design+with+purpose++.+.+.;+.+.+.+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBCode+with+flair!+%E2%9C%A8)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F743AC&background=FEE8FF00&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8Design+with+purpose++.+.+.;+.+.+.+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBCode+with+flair!+%E2%9C%A8"  />
+</p>
+
   
   <br>
    
