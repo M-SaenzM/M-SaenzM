@@ -47,6 +47,11 @@ I believe in the power of creativity to inspire innovation and constantly explor
 </p>
 
 ------
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=M-SaenzM)](https://git.io/streak-stats)
+
+-----
+
 <p align="center">
   📫 Let's collaborate on exciting projects or discuss design and tech trends. Reach out anytime!
 </p>
