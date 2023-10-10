@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/github-header-image%20(7).png)
 
 ----
- <img align="right" width="400" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif"/>
+ <img align="right" margin="5" width="400" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif"/>
 
 <br>
 
