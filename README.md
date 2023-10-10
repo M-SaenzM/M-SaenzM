@@ -59,7 +59,8 @@ I believe in the power of creativity to inspire innovation and constantly explor
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
 </div>
 
-================================
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+
 
 📫 Let's collaborate on exciting projects or discuss design and tech trends. Reach out anytime!
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelasaenzm/)
