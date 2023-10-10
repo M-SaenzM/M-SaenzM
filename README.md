@@ -49,7 +49,7 @@ I believe in the power of creativity to inspire innovation and constantly explor
 ------
 
 <p align="center">
-    <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Stats" src="https://github-readme-stats-nine-gamma-89.vercel.app/api?username=M-SaenzM&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-SaenzM&theme=dracula&show_icons=true&hide_border=true"></a>
     <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=M-SaenzM&theme=dracula&hide_border=true"></a>
 </p>
 
