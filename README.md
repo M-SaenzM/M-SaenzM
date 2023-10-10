@@ -1,11 +1,11 @@
-![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/github-header-image%20(9).png)
+![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/github-header-image%20(6).png)
 
-<h1 align="center">
-   Hello World! 👋🏻 I'm Marcela Saenz ✨
-</h1>
+< align="center">
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F743AC&background=FEE8FF00&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8Design+with+purpose++.+.+.;+.+.+.+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBCode+with+flair!+%E2%9C%A8)](https://git.io/typing-svg)
+</>
 ----
-<div align="center">
-  <div width="48%"> 
+
+  <div align="left"> 
 - 🎓 Computer Engineer 
 - 💻 Front-end Developer
 - 🎨 UI/UX Design Enthusiast
@@ -13,10 +13,10 @@
 - 🌟 Creative Thinker 
 - 🌐 Currently exploring the realms of **Web Programming**
   </div>
-  <div width="48%">
-     <img width="200" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif">
-  </div>
-</div>
+  
+  <img align="right" width="400" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif"/>
+  
+
 
 ----
 
@@ -24,7 +24,7 @@ I'm a passionate creator who blends code and design to craft delightful digital 
 I believe in the power of creativity to inspire innovation and constantly explore new ways to merge technology and art.
 
 >
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F743AC&background=FEE8FF00&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8Design+with+purpose++.+.+.;+.+.+.+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBCode+with+flair!+%E2%9C%A8)](https://git.io/typing-svg)
+> 
 >
 >
 # Skills
