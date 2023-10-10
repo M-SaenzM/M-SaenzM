@@ -1,17 +1,23 @@
-<p align="center">
-  <img width="100%" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif">
-</p>
+![MasterHead](https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/image.png)
 
 <p align="center">
   <h1>Hello World! 👋🏻 I'm Marcela Saenz ✨</h1>
 </p>
 ----
+<div align="center">
+  <div width="48%"> 
 - 🎓 Computer Engineer 
 - 💻 Front-end Developer
 - 🎨 UI/UX Design Enthusiast
 - 📚 Lifelong Learner 
 - 🌟 Creative Thinker 
 - 🌐 Currently exploring the realms of **Web Programming**
+  </div>
+  <div width="48%">
+     <img width="200" src="https://github.com/M-SaenzM/M-SaenzM/blob/main/Assets/header.gif">
+  </div>
+</div>
+
 ----
 
 I'm a passionate creator who blends code and design to craft delightful digital experiences. My code and designs aim to tell stories and solve problems elegantly. 
