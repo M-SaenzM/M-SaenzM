@@ -7,7 +7,7 @@
 
 
 <p align="center">
- I'm a passionate creator who blends code and design to craft delightful digital experiences. My code and designs aim to tell stories and solve problems elegantly. 
+ I'm a passionate developer who blends code and design to craft delightful digital experiences. My code and designs aim to tell stories and solve problems elegantly. 
 I believe in the power of creativity to inspire innovation and constantly explore new ways to merge technology and art.
 </p>
 
