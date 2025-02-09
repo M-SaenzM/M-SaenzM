@@ -7,8 +7,7 @@
 
 
 <p align="center">
- I'm a passionate developer who blends code and design to craft delightful digital experiences. My code and designs aim to tell stories and solve problems elegantly. 
-I believe in the power of creativity to inspire innovation and constantly explore new ways to merge technology and art.
+I'm a passionate developer who seamlessly blends code and design to create engaging digital experiences. My work isn’t just about functionality—it’s about storytelling and solving problems elegantly. I believe creativity fuels innovation, and I’m always exploring new ways to merge technology and art to build meaningful and inspiring solutions.
 </p>
 
 <br>
@@ -63,7 +62,7 @@ I believe in the power of creativity to inspire innovation and constantly explor
 -----
 
 <p align="center">
-  📫 Let's collaborate on exciting projects or discuss design and tech trends. Reach out anytime!
+  📫 If you have an idea or project, let’s connect! I’d love to collaborate and bring creative concepts to life.
 </p>
 <br>
 <p align="center">
